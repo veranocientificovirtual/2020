@@ -5,4 +5,6 @@ En este sitio web, encontraras informacion acerca de la convocatoria vigente, pa
 Recuerda que puedes enviar cualquier comentario o sugerencia a veranocientificovirtual@gmail.com, donde tambien podras aplicar a la convocatoria vigente.
 
 ### Convocatoria vigente
-_Por liberarse_
+Haz clic en el siguiente enlace para descargar la convocatoria vigente:
+
+[Convocatoria 2020](https://github.com/veranocientificovirtual/veranocientificovirtual.github.io/edit/master/convocatoria_borrador.pdf)
