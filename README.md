@@ -7,4 +7,4 @@ Recuerda que puedes enviar cualquier comentario o sugerencia a veranocientificov
 ### Convocatoria vigente
 Haz clic en el siguiente enlace para descargar la convocatoria vigente:
 
-[Convocatoria 2020](https://github.com/veranocientificovirtual/veranocientificovirtual.github.io/edit/master/convocatoria_borrador.pdf)
+[Convocatoria 2020](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf)
