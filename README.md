@@ -8,14 +8,16 @@ Nuestra iniciativa surge de la mano de jovenes cientificas y/o cientificos nacio
 
 En este sitio web podras encontrar informacion acerca de la convocatoria vigente, participantes, tutores, e instrucciones para el acceso de los repositorios privados de el (o los) proyectos vigentes actuales.
 
-### Edicion 2020
+## Edicion 2020
 En esta edicion de lanzamiento, un unico proyecto a desarrollar en el area de _fisica_ lleva por titulo:
 
 ### "_Dinámica no-lineal de superfluidos en potenciales arbitrarios_"
 
 Consulta la [convocatoria](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf) para mayor informacion, o envia un correo con tus preguntas a *veranocientificovirtual@gmail.com*.
 
-### Convocatoria vigente
+### Convocatoria vigente y colaboradores
 Haz clic en el siguiente enlace para descargar la convocatoria vigente:
 
 [Convocatoria 2020](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf)
+
+En esta edicion de lanzamiento, agradecemos el apoyo y la especial colaboracion de la Universidad Autonoma de San Luis Potosi a traves de su [Facultad de Ciencias](http://www.fc.uaslp.mx).
