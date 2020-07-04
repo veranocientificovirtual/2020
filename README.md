@@ -31,7 +31,7 @@ Inicio de proyecto: *01.08.2020*
 ### Convocatoria vigente y colaboradores
 Haz clic en el siguiente enlace para descargar la convocatoria vigente:
 
-[Convocatoria 2020](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf)
+[Convocatoria 2020](https://veranocientificovirtual.github.io/docs/convocatoria.pdf)
 
 ### Agradecimientos:
 En esta edición de lanzamiento, agradecemos el apoyo y la especial colaboración de la Universidad Autónoma de San Luis Potosí a través de su [Facultad de Ciencias](http://www.fc.uaslp.mx).
