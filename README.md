@@ -1,23 +1,39 @@
-## Bienvenido(a) al Verano Cientifico Virtual 2020
+## Bienvenido(a) al Verano Científico Virtual 2020
 
-Ante los desafios impuestos por la pandemia, presentamos la iniciativa _Verano cientifico virtual_ como opcion inmediata a una experiencia de investigacion cientifica para jovenes estudiantes de licenciatura y/o maestria. 
+Ante los desafíos impuestos por la pandemia, presentamos la iniciativa Verano científico virtual_ como opción inmediata a una experiencia de investigación científica para jóvenes estudiantes de licenciatura y/o maestría.
 
-En este programa tratamos de explotar las diversas herramientas y recursos de acceso remoto (plataformas de videoconferencias, salas de chat y grupos de interaccion virtual, entre otros) que han cobrado impulso recientemente, con el fin de desarrollar un proyecto de investigacion cientifica. 
+En este programa tratamos de explotar las diversas herramientas y recursos de acceso remoto (plataformas de videoconferencias, salas de chat y grupos de interacción virtual, entre otros) que han cobrado impulso recientemente, con el fin de desarrollar un proyecto de investigación científica.
 
-Nuestra iniciativa surge de la mano de jovenes cientificas y/o cientificos nacionales y/o en el extranjero que proponen proyectos dentro de sus areas de especializacion (interesados(as) en guiar proyectos para la siguiente edicion pueden contactar directamente a veranocientificovirtual@gmail.com). El objetivo principal de este proyecto es sumergir a estudiantes en formacion temprana a la investigacion cientifica remota, un estilo de trabajo que cada dia cobra mayor importancia en temas de desarrollo interdisciplinario y colaboracion internacional.
+Nuestra iniciativa surge de la mano de jóvenes científicas y/o científicos nacionales y/o en el extranjero que proponen proyectos dentro de sus áreas de especialización (interesados(as) en guiar proyectos para la siguiente edición pueden contactar directamente a veranocientificovirtual@gmail.com). El objetivo principal de este proyecto es sumergir a estudiantes en formación temprana a la investigación científica remota, un estilo de trabajo que cada día cobra mayor importancia en temas de desarrollo interdisciplinario y colaboración internacional.
 
 En este sitio web podras encontrar informacion acerca de la convocatoria vigente, participantes, tutores, e instrucciones para el acceso de los repositorios privados de el (o los) proyectos vigentes actuales.
 
 ## Edicion 2020
-En esta edicion de lanzamiento, un unico proyecto a desarrollar en el area de _fisica_ lleva por titulo:
+En esta edición de lanzamiento, un único proyecto a desarrollar en el área de _ fisica _ lleva por título:
 
-### "_Dinámica no-lineal de superfluidos en potenciales arbitrarios_"
+#### "_ Dinámica no-lineal de superfluidos en potenciales arbitrarios _"
 
-Consulta la [convocatoria](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf) para mayor informacion, o envia un correo con tus preguntas a *veranocientificovirtual@gmail.com*.
+### Requisitos:
+Semblanza de experiencia académica acumulada a la fecha y el interés en participar
+Kardex (registro de calificaciones)
+Copia escaneada de identificación universitaria
+Una carta de recomendación
+
+### Fechas clave:
+
+*Fecha límite de aplicación: 15.07.2020*
+
+*Inicio de proyecto: 01.08.2020*
 
 ### Convocatoria vigente y colaboradores
 Haz clic en el siguiente enlace para descargar la convocatoria vigente:
 
 [Convocatoria 2020](https://veranocientificovirtual.github.io/docs/convocatoria_borrador.pdf)
 
-En esta edicion de lanzamiento, agradecemos el apoyo y la especial colaboracion de la Universidad Autonoma de San Luis Potosi a traves de su [Facultad de Ciencias](http://www.fc.uaslp.mx).
+### Agradecimientos:
+En esta edición de lanzamiento, agradecemos el apoyo y la especial colaboración de la Universidad Autónoma de San Luis Potosí a través de su [Facultad de Ciencias](http://www.fc.uaslp.mx).
+
+### Contacto y soporte
+*Comite organizador*
+Correo: *veranocientificovirtual@gmail.com*
+
