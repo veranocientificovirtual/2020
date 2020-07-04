@@ -11,7 +11,7 @@ En este sitio web podras encontrar informacion acerca de la convocatoria vigente
 ## Edicion 2020
 En esta edición de lanzamiento, un único proyecto a desarrollar en el área de _ fisica _ lleva por título:
 
-#### "_ Dinámica no-lineal de superfluidos en potenciales arbitrarios _"
+#### "_Dinámica no-lineal de superfluidos en potenciales arbitrarios_"
 
 ### Requisitos:
 Semblanza de experiencia académica acumulada a la fecha y el interés en participar
@@ -21,9 +21,9 @@ Una carta de recomendación
 
 ### Fechas clave:
 
-*Fecha límite de aplicación: 15.07.2020*
+Fecha límite de aplicación: *15.07.2020*
 
-*Inicio de proyecto: 01.08.2020*
+Inicio de proyecto: *01.08.2020*
 
 ### Convocatoria vigente y colaboradores
 Haz clic en el siguiente enlace para descargar la convocatoria vigente:
