@@ -15,8 +15,11 @@ En esta edición de lanzamiento, un único proyecto a desarrollar en el área de
 
 ### Requisitos:
 Semblanza de experiencia académica acumulada a la fecha y el interés en participar
+
 Kardex (registro de calificaciones)
+
 Copia escaneada de identificación universitaria
+
 Una carta de recomendación
 
 ### Fechas clave:
@@ -35,5 +38,6 @@ En esta edición de lanzamiento, agradecemos el apoyo y la especial colaboració
 
 ### Contacto y soporte
 *Comite organizador*
+
 Correo: *veranocientificovirtual@gmail.com*
 
