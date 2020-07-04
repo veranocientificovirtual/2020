@@ -1,10 +1,10 @@
 ## Bienvenido(a) al Verano Cientifico Virtual 2020
 
-Ante los desafios impuestos por la pandemia, presentamos la iniciativa _Verano cientifico virtual_ como opcion inmediata a una experiencias de investigacion cientifica para jovenes estudiantes de licenciatura y/o maestria. 
+Ante los desafios impuestos por la pandemia, presentamos la iniciativa _Verano cientifico virtual_ como opcion inmediata a una experiencia de investigacion cientifica para jovenes estudiantes de licenciatura y/o maestria. 
 
-En este programa trataremos de explotar las diversas herramientas y recursos de acceso remoto (plataformas de videoconferencias, salas de chat y grupos de interaccion virtual, entre otros) que han cobrado impulso recientemente. 
+En este programa tratamos de explotar las diversas herramientas y recursos de acceso remoto (plataformas de videoconferencias, salas de chat y grupos de interaccion virtual, entre otros) que han cobrado impulso recientemente, con el fin de desarrollar un proyecto de investigacion cientifica. 
 
-Nuestra iniciativa surge de la mano de jovenes cientificas y/o cientificos nacionales y/o en el extranjero que puedan proponer proyectos dentro de sus areas de especializacion (interesados(as) en guiar proyectos para la siguiente convocatoria pueden contactar directamente a veranocientificovirtual@gmail.com). El objetivo principal de este proyecto es sumergir a estudiantes en formacion temprana a la investigacion cientifica remota, un estilo de trabajo que cada dia cobra mayor importancia en temas de desarrollo interdisciplinario y colaboracion internacional.
+Nuestra iniciativa surge de la mano de jovenes cientificas y/o cientificos nacionales y/o en el extranjero que proponen proyectos dentro de sus areas de especializacion (interesados(as) en guiar proyectos para la siguiente edicion pueden contactar directamente a veranocientificovirtual@gmail.com). El objetivo principal de este proyecto es sumergir a estudiantes en formacion temprana a la investigacion cientifica remota, un estilo de trabajo que cada dia cobra mayor importancia en temas de desarrollo interdisciplinario y colaboracion internacional.
 
 En este sitio web podras encontrar informacion acerca de la convocatoria vigente, participantes, tutores, e instrucciones para el acceso de los repositorios privados de el (o los) proyectos vigentes actuales.
 
