@@ -20,8 +20,6 @@ Kardex (registro de calificaciones)
 
 Copia escaneada de identificación universitaria
 
-Una carta de recomendación
-
 ### Fechas clave:
 
 Fecha límite de aplicación: *15.07.2020*
